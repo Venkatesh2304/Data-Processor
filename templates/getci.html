@@ -1,0 +1,10 @@
+<body>
+    <form action="/ci" method="post" class="container">
+        <img src="{{ url_for('static', filename='TempCaptcha.png') }}" />
+        <input type="number" name="{{cookie}}" />
+        <input type="date" name="fromd" />
+        <input type="date" name="tod" />
+
+        <button> Submit </button>
+    </form>
+</body>

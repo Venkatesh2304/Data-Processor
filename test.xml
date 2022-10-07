@@ -1,0 +1,2073 @@
+<ENVELOPE><HEADER><TALLYREQUEST>Import Data</TALLYREQUEST></HEADER><BODY><IMPORTDATA><REQUESTDESC><REPORTNAME>Vouchers</REPORTNAME></REQUESTDESC><REQUESTDATA><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210405-4331693823"  ACTION ="Create">
+				 <DATE>20210405</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331693823</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>10620.58</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-12532.28</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>955.85</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>955.85</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-10620.58</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>10620.58</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210407-4331694083"  ACTION ="Create">
+				 <DATE>20210407</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331694083</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1643.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1725.5</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>41.08</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>41.08</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1643.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1643.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210407-4331694084"  ACTION ="Create">
+				 <DATE>20210407</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331694084</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>149.76</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-176.72</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>13.48</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>13.48</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-149.76</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>149.76</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210420-4331702796"  ACTION ="Create">
+				 <DATE>20210420</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331702796</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>7521.67</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-8424.27</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>451.3</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>451.3</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-7521.67</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>7521.67</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210426-4331704835"  ACTION ="Create">
+				 <DATE>20210426</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331704835</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1677.33</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1979.25</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>150.96</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>150.96</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1677.33</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1677.33</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210506-4331705815"  ACTION ="Create">
+				 <DATE>20210506</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331705815</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>2291.36</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2703.8</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>206.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>206.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2291.36</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>2291.36</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210518-4331707207"  ACTION ="Create">
+				 <DATE>20210518</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331707207</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1429.73</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1501.21</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>35.74</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>35.74</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1429.73</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1429.73</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210610-4331710054"  ACTION ="Create">
+				 <DATE>20210610</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331710054</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1305.92</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1540.98</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>117.53</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>117.53</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1305.92</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1305.92</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210610-4331710055"  ACTION ="Create">
+				 <DATE>20210610</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331710055</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>643.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-759.09</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>57.9</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>57.9</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-643.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>643.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210610-4331710056"  ACTION ="Create">
+				 <DATE>20210610</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331710056</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>2318.31</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2735.61</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>208.65</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>208.65</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2318.31</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>2318.31</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210615-4331714217"  ACTION ="Create">
+				 <DATE>20210615</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331714217</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>920.0</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1085.6</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>82.8</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>82.8</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-920.0</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>920.0</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210630-4331716805"  ACTION ="Create">
+				 <DATE>20210630</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331716805</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>4982.41</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-5231.53</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>124.56</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>124.56</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-4982.41</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>4982.41</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210630-4339507441"  ACTION ="Create">
+				 <DATE>20210630</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4339507441</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>4411.2</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-5205.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>397.01</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>397.01</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-4411.2</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>4411.2</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718466"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718466</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>7300.92</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-8615.08</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>657.08</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>657.08</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-7300.92</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>7300.92</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718471"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718471</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>16965.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-20019.1</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>1526.88</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>1526.88</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-16965.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>16965.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718472"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718472</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>3130.03</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-3693.43</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>281.7</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>281.7</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-3130.03</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>3130.03</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718473"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718473</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1588.03</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1873.87</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>142.92</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>142.92</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1588.03</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1588.03</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718474"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718474</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>449.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-530.17</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>40.44</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>40.44</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-449.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>449.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718475"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718475</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>449.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-530.17</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>40.44</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>40.44</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-449.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>449.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718476"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718476</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>449.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-530.17</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>40.44</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>40.44</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-449.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>449.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718477"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718477</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>8126.65</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-9589.43</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>731.39</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>731.39</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-8126.65</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>8126.65</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718478"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718478</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>3535.24</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-4171.58</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>318.17</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>318.17</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-3535.24</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>3535.24</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718479"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718479</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>6339.0</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-7480.02</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>570.51</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>570.51</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-6339.0</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>6339.0</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718480"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718480</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>3162.97</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-3732.31</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>284.67</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>284.67</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-3162.97</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>3162.97</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718481"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718481</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1006.4</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1187.56</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>90.58</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>90.58</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1006.4</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1006.4</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718482"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718482</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>18232.84</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-21514.76</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>1640.96</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>1640.96</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-18232.84</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>18232.84</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718483"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718483</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>17865.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-21080.96</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>1607.87</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>1607.87</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-17865.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>17865.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718484"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718484</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1010.84</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1192.8</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>90.98</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>90.98</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1010.84</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1010.84</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718485"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718485</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>2501.14</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2951.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>225.1</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>225.1</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2501.14</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>2501.14</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210716-4331718486"  ACTION ="Create">
+				 <DATE>20210716</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718486</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>2501.81</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2952.13</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>225.16</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>225.16</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2501.81</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>2501.81</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210717-4331718894"  ACTION ="Create">
+				 <DATE>20210717</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718894</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>4024.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-4748.58</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>362.18</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>362.18</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-4024.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>4024.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210717-4331718895"  ACTION ="Create">
+				 <DATE>20210717</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718895</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>149.02</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-175.84</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>13.41</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>13.41</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-149.02</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>149.02</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210717-4331718896"  ACTION ="Create">
+				 <DATE>20210717</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331718896</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>546.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-644.63</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>49.17</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>49.17</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-546.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>546.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210821-4331736575"  ACTION ="Create">
+				 <DATE>20210821</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331736575</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>41.93</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-49.47</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>3.77</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>3.77</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-41.93</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>41.93</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210821-4331736576"  ACTION ="Create">
+				 <DATE>20210821</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331736576</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>3652.76</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-4310.26</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>328.75</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>328.75</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-3652.76</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>3652.76</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210821-4331736577"  ACTION ="Create">
+				 <DATE>20210821</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331736577</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>769.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-807.68</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>19.23</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>19.23</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-769.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>769.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210821-4331736578"  ACTION ="Create">
+				 <DATE>20210821</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331736578</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>92.0</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-108.56</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>8.28</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>8.28</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-92.0</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>92.0</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210821-4331736579"  ACTION ="Create">
+				 <DATE>20210821</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331736579</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1192.66</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1407.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>107.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>107.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1192.66</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1192.66</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210821-4331736580"  ACTION ="Create">
+				 <DATE>20210821</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331736580</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1213.07</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1431.43</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>109.18</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>109.18</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1213.07</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1213.07</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210821-4331736581"  ACTION ="Create">
+				 <DATE>20210821</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331736581</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>630.49</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-662.01</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>15.76</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>15.76</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-630.49</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>630.49</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210821-4331736582"  ACTION ="Create">
+				 <DATE>20210821</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331736582</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>643.97</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-759.89</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>57.96</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>57.96</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-643.97</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>643.97</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210903-4331742332"  ACTION ="Create">
+				 <DATE>20210903</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331742332</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1821.66</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2040.26</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>109.3</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>109.3</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1821.66</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1821.66</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210924-4331751403"  ACTION ="Create">
+				 <DATE>20210924</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331751403</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1984.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2341.52</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>178.59</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>178.59</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1984.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1984.34</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210924-4331751404"  ACTION ="Create">
+				 <DATE>20210924</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331751404</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>5332.61</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-6292.47</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>479.93</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>479.93</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-5332.61</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>5332.61</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210924-4331751405"  ACTION ="Create">
+				 <DATE>20210924</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331751405</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>2156.58</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2544.76</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>194.09</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>194.09</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2156.58</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>2156.58</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210924-4331751406"  ACTION ="Create">
+				 <DATE>20210924</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331751406</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>5293.4</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-6246.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>476.41</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>476.41</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-5293.4</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>5293.4</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210924-4331751407"  ACTION ="Create">
+				 <DATE>20210924</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331751407</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>6987.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-8245.01</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>628.86</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>628.86</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-6987.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>6987.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210924-4331751408"  ACTION ="Create">
+				 <DATE>20210924</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331751408</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>6987.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-8245.01</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>628.86</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>628.86</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-6987.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>6987.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20210924-4331751409"  ACTION ="Create">
+				 <DATE>20210924</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331751409</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1588.03</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1873.87</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>142.92</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>142.92</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1588.03</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1588.03</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20211021-4331757882"  ACTION ="Create">
+				 <DATE>20211021</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331757882</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>33083.75</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-39038.81</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>2977.53</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>2977.53</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-33083.75</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>33083.75</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20211021-4331757883"  ACTION ="Create">
+				 <DATE>20211021</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331757883</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1818.75</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2146.13</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>163.69</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>163.69</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1818.75</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1818.75</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20211021-4331757884"  ACTION ="Create">
+				 <DATE>20211021</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331757884</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>5995.24</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-6714.66</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>359.71</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>359.71</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-5995.24</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>5995.24</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20211021-4331757885"  ACTION ="Create">
+				 <DATE>20211021</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331757885</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>7675.43</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-9057.01</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>690.79</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>690.79</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-7675.43</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>7675.43</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20211227-4331779639"  ACTION ="Create">
+				 <DATE>20211227</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331779639</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1767.61</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-2085.77</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>159.08</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>159.08</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1767.61</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1767.61</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20211227-4331779640"  ACTION ="Create">
+				 <DATE>20211227</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331779640</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>3211.33</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-3789.37</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>289.02</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>289.02</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-3211.33</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>3211.33</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20211227-4331779641"  ACTION ="Create">
+				 <DATE>20211227</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331779641</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>6881.42</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-8120.08</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>619.33</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>619.33</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-6881.42</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>6881.42</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20211228-4331781326"  ACTION ="Create">
+				 <DATE>20211228</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331781326</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>6582.24</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-7767.04</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>592.4</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>592.4</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-6582.24</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>6582.24</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220126-4331790441"  ACTION ="Create">
+				 <DATE>20220126</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331790441</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>31685.86</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-37389.32</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>2851.73</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>2851.73</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-31685.86</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>31685.86</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220126-4331790442"  ACTION ="Create">
+				 <DATE>20220126</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331790442</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>11134.14</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-13138.28</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>1002.07</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>1002.07</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-11134.14</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>11134.14</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220126-4331790443"  ACTION ="Create">
+				 <DATE>20220126</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331790443</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>6739.28</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-7952.36</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>606.54</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>606.54</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-6739.28</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>6739.28</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220126-4331790444"  ACTION ="Create">
+				 <DATE>20220126</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331790444</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>45961.9</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-54235.04</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>4136.57</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>4136.57</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-45961.9</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>45961.9</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220215-4331794875"  ACTION ="Create">
+				 <DATE>20220215</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331794875</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>3908.78</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-4612.36</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>351.79</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>351.79</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-3908.78</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>3908.78</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220218-4331796999"  ACTION ="Create">
+				 <DATE>20220218</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331796999</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>44.93</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-53.01</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>4.04</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>4.04</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-44.93</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>44.93</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220218-4331797000"  ACTION ="Create">
+				 <DATE>20220218</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331797000</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>63.85</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-75.35</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>5.75</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>5.75</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-63.85</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>63.85</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220218-4331797128"  ACTION ="Create">
+				 <DATE>20220218</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331797128</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>425.42</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-502.0</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>38.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>38.29</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-425.42</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>425.42</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220224-4331798259"  ACTION ="Create">
+				 <DATE>20220224</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331798259</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>7152.62</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-8440.1</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>643.74</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>643.74</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-7152.62</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>7152.62</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220304-4331802141"  ACTION ="Create">
+				 <DATE>20220304</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331802141</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>59659.45</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-70398.15</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>5369.35</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>5369.35</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-59659.45</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>59659.45</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220316-4331806777"  ACTION ="Create">
+				 <DATE>20220316</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331806777</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>8087.14</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-9542.82</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>727.84</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>727.84</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-8087.14</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>8087.14</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220328-4331810868"  ACTION ="Create">
+				 <DATE>20220328</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331810868</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>6683.19</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-7886.17</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>601.49</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>601.49</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-6683.19</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>6683.19</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220331-4331811437"  ACTION ="Create">
+				 <DATE>20220331</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331811437</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>12130.7</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-14314.22</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>1091.76</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>1091.76</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-12130.7</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>12130.7</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220331-4331811438"  ACTION ="Create">
+				 <DATE>20220331</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331811438</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>4217.13</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-4976.21</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>379.54</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>379.54</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-4217.13</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>4217.13</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220331-4331811439"  ACTION ="Create">
+				 <DATE>20220331</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331811439</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>74.88</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-88.36</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>6.74</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>6.74</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-74.88</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>74.88</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220331-4331811440"  ACTION ="Create">
+				 <DATE>20220331</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331811440</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>4382.23</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-5171.03</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>394.4</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>394.4</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-4382.23</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>4382.23</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE><TALLYMESSAGE><VOUCHER REMOTEID="Credit Invoice-20220331-4331811441"  ACTION ="Create">
+				 <DATE>20220331</DATE>
+				 <VOUCHERTYPENAME>Credit Invoice</VOUCHERTYPENAME>
+				 <VOUCHERNUMBER>4331811441</VOUCHERNUMBER>
+			 <ISINVOICE>Yes</ISINVOICE><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return</LEDGERNAME>
+		                            <AMOUNT>1242.19</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>HUL Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1465.79</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return CGST</LEDGERNAME>
+		                            <AMOUNT>111.8</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return SGST</LEDGERNAME>
+		                            <AMOUNT>111.8</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>Yes</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Pending Purchase Return</LEDGERNAME>
+		                            <AMOUNT>-1242.19</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST><ALLLEDGERENTRIES.LIST>
+<ISDEEMEDPOSITIVE>No</ISDEEMEDPOSITIVE>
+		                            <LEDGERNAME>Purchase Return Receivable</LEDGERNAME>
+		                            <AMOUNT>1242.19</AMOUNT>
+	                          </ALLLEDGERENTRIES.LIST></VOUCHER></TALLYMESSAGE></REQUESTDATA></IMPORTDATA></BODY></ENVELOPE>

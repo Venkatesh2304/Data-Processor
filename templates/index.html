@@ -1,0 +1,23 @@
+<body>
+    <script>
+        function cookieset(e) { document.cookie = "user=" +e.value }
+    </script>
+    <select onchange="cookieset(this)">
+        <option value="devaki">Devaki</option>
+        <option value="devaki1"> Devaki</option>
+    </select>
+    <div class="container">
+      <form method="post" action="/generate" enctype="multipart/form-data">
+        <input type="date" name="fromd" />
+        <input type="date" name="tod" />
+        <input type="file"  name="ledger" /> 
+         <input type="submit" />
+      </form>
+    </div>
+    <div class="container">
+        <form method="post" action="/openingstock">
+            <input type="date" name="date" />
+            <input type="submit" />
+        </form>
+    </div>
+</body>
